@@ -46,7 +46,7 @@ public class SpringBatchConfig {
 				.build();
 
 	} 
-	
+	 
 	@Bean
 	public FlatFileItemReader<User> flatfileItemReader(@Value("${input}") Resource resource){
 		
