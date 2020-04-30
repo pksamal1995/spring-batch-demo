@@ -1,0 +1,4 @@
+id,name,dept,salary
+1,dave,001,20000
+2,rick,002,22000
+3,elsa,003,21000
